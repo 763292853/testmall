@@ -40,4 +40,7 @@ export default {
   height: 65px;
   margin-bottom: 10px;
 }
+.recommend-item div{
+  color: #000;
+}
 </style>

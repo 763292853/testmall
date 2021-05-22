@@ -37,6 +37,8 @@ export default {
   background-color: #d3dce6;
 }
 .carousel-item img {
+  height: 100%;
     width: 100%;
 }
+
 </style>
