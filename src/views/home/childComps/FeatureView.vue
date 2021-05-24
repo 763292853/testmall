@@ -1,6 +1,6 @@
 <template>
     <div class="feature">
-        <a href="#"><img src="assets/img/home/recommends.png" alt=""></a>
+        <a href="https://act.moguie.com/zzlx67"><img src="../../../assets//img/home/Snipaste_2021-05-24_10-49-03.png" alt=""></a>
     </div>
 </template>
 
@@ -12,7 +12,7 @@ export default {
 <style >
     .feature img{
         width: 100%;
-        height: 180px;
+        height: 230px;
         background-color: pink;
     }
 </style>
